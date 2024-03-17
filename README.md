@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple steps.
 
 1. In your terminal, clone the repository to your local machine
    ```sh
-   git clone git@github.com:lswatson16/nyt.git
+   git clone git@github.com:krishkolluri/nytTopStoriesReactApp.git
    ```
 2. `cd` into the root directory
    ```sh
